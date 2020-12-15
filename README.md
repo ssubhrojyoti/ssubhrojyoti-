@@ -6,7 +6,7 @@
   <img align="left" alt="Subhro'sLinkdeIN" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/031-linkedin.png" />
 </a>
 <a href="https://www.hackerrank.com/ssubhrojyotiroy">
-  <img align="left" alt="Subhro'sHackerRank" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/assets/ico/HackerRank_Icon-1000px.png" />
+  <img align="left" alt="Subhro'sHackerRank" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/HackerRank_Icon-1000px.png" />
 </a>              
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ssubhrojyoti.ssubhrojyoti)
