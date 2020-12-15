@@ -17,7 +17,6 @@
 
 Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast 🤖 ,currently working in the automation space of account receivables. I'm a final year b.tech student and have a keen interest in the areas of keen interest in Machine learning , Data Science, Deep Learning.
 <img align="right" alt="GIF" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Unite-Online-Conquer-with-Innovation.gif" width="500" height="300" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssubhrojyoti&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook" alt="languages" height="165"/>
 </p>
 
 - :man_technologist: Currently working in the account receivable's automation space :wink:
@@ -40,6 +39,8 @@ Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast �
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Git_icon.svg.png"></code>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ssubhrojyoti&show_icons=true&theme=radical&hide=contribs,prs,issues,contribsto,stars" alt="ssubhrojyoti" />
+  
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssubhrojyoti&layout=compact&theme=tokyonight&count_private=true&hide="" alt="languages" height="165"/>  
 <br />
 <br /> 
 <br /> 
