@@ -42,4 +42,4 @@ Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast �
 <br />
 <br /> 
 <br /> 
-<h1 align='center'>⚡️<i>Be Foolish, Be Curious</i>⚡️</h1>
+<h1 align='center'>:persevere:<i>Be Foolish, Be Curious</i>:monocle_face:</h1>
