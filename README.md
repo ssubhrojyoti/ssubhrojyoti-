@@ -19,7 +19,7 @@ Hi, I am Subhrojyoti, a Software Developer ðŸš€ and an Data Science Enthusiast ð
 <img align="right" alt="GIF" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Marketing-Data-Analytics.gif" width="500" height="320" />
 
 
-- :man_technologist: Currently working in the account receivable's automation space :wink:;
+- :man_technologist: Currently working in the account receivable's automation space :wink:
 - :open_hands: Open to collaborations on projects involving DS,ML,DL.
 - Looking to collaborate with people to work on DL Research Papers.
 
