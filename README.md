@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast 🤖 ,currently working in the automation of account receivables space. I'm a final year b.tech student and have a keen interest in the areas of keen interest in Machine learning , Data Science, Deep Learning.
+Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast 🤖 ,currently working in the automation space of account receivables. I'm a final year b.tech student and have a keen interest in the areas of keen interest in Machine learning , Data Science, Deep Learning.
 <img align="right" alt="GIF" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Marketing-Data-Analytics.gif" width="500" height="320" />
 
 
