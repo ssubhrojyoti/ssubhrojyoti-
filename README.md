@@ -15,14 +15,13 @@
 
 <br />
 
-I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Python Developer 🚀 and an AI Enthusiast 🤖 from India, currently, I'm a student and have been a former Teaching Asssistant [@CodingNinjas](https://www.codingninjas.com/). Beside's programming, I enjoy travelling 🚌.
-
+Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast 🤖 ,currently working in the automation of account receivables space. I'm a final year b.tech student and have a keen interest in the areas of keen interest in Machine learning , Data Science, Deep Learning.
 <img align="right" alt="GIF" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Marketing-Data-Analytics.gif" width="500" height="320" />
 
 
-- :man_technologist: Currently working in the automation space :wink:;
-- 🌱 I’m currently learning Computer vision and PyTorch; 
-- :open_hands: Open to collaborations on projects involving DS,ML,DL 
+- :man_technologist: Currently working in the account receivable's automation space :wink:;
+- :open_hands: Open to collaborations on projects involving DS,ML,DL.
+- Looking to collaborate with people to work on DL Research Papers.
 
 <br />
 
