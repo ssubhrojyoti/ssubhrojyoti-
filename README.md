@@ -6,7 +6,7 @@
   <img align="left" alt="Ayanava Dutta | Twitter" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/013-twitter-1.png" />
 </a>
 <a href="https://www.linkedin.com/in/subhrojyoti-roy/">
-  <img align="left" alt="Subhro's Linkdein" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/master/assets/ico/031-linkedin.png" />
+  <img align="left" alt="Subhro's LinkdeIN" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/master/assets/ico/031-linkedin.png" />
 </a>
 <a href="https://www.hackerrank.com/Ayanava_99">
   <img align="left" alt="Ayanava's HackerRank" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/HackerRank_Icon-1000px.png" />
