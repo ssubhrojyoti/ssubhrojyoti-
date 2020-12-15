@@ -16,7 +16,7 @@
 <br />
 
 Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast 🤖 ,currently working in the automation space of account receivables. I'm a final year b.tech student and have a keen interest in the areas of keen interest in Machine learning , Data Science, Deep Learning.
-<img align="right" alt="GIF" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Unite-Online-Conquer-with-Innovation.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Unite-Online-Conquer-with-Innovation.gif" width="500" height="280" />
 </p>
 
 - :man_technologist: Currently working in the account receivable's automation space :wink:
