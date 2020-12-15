@@ -5,8 +5,8 @@
 <a href="https://twitter.com/dutta_ayanava">
   <img align="left" alt="Ayanava Dutta | Twitter" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/013-twitter-1.png" />
 </a>
-<a href="https://www.linkedin.com/in/ayanava-dutta-972617168/">
-  <img align="left" alt="Ayanava's LinkdeIN" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/031-linkedin.png" />
+<a href="https://www.linkedin.com/in/subhrojyoti-roy/">
+  <img align="left" alt="Subhro's LinkdeIN" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/master/assets/ico/031-linkedin.png" />
 </a>
 <a href="https://www.hackerrank.com/Ayanava_99">
   <img align="left" alt="Ayanava's HackerRank" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/HackerRank_Icon-1000px.png" />
@@ -23,11 +23,9 @@ I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Python Developer �
 <img align="right" alt="GIF" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Marketing-Data-Analytics.gif" width="500" height="320" />
 
 
-**Talking of Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍Currently working in the automation space :wink:;
 - 🌱 I’m currently learning Computer vision and PyTorch; 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- :open_hands: Open to collaborations on projects involving DS,ML,DL 
 
 <br />
 
