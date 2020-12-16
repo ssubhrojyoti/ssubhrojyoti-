@@ -19,7 +19,7 @@ Hi, I am Subhrojyoti, a Software Developer ðŸš€ and an Data Science Enthusiast ð
 <img align="right" alt="GIF" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Unite-Online-Conquer-with-Innovation.gif" width="400" height="240" />
 </p>
 
-- :man_technologist: Currently working in the account receivable's automation space :wink:
+- :man_technologist: Currently working in the account receivables automation space :wink:
 - :open_hands: Open to collaborations on projects involving DS,ML,DL.
 - Looking to collaborate with determined individuals to work on DL Research Papers in the field of Computer Vision.
 
