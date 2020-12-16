@@ -38,7 +38,7 @@ Hi, I am Subhrojyoti, a Software Developer ðŸš€ and an Data Science Enthusiast ð
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Moby-logo.png"></code>
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Git_icon.svg.png"></code>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ssubhrojyoti&show_icons=true&theme=radical&hide=contribs,prs,issues,contribsto,stars" alt="ssubhrojyoti" />&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssubhrojyoti&layout=compact&theme=tokyonight&count_private=true&hide="" alt="languages"/> 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ssubhrojyoti&show_icons=true&theme=radical&hide=contribs,prs,issues,contribsto,stars" alt="ssubhrojyoti" />&nbsp;<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssubhrojyoti&layout=compact&theme=tokyonight&count_private=true&hide="" alt="languages"/> 
  
 <br />
 <br /> 
