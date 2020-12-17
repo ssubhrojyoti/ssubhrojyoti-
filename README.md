@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">                 
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">                 
 <a href="https://twitter.com/RoySubhro7">
   <img align="left" alt="Subhrojyoti Roy | Twitter" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/013-twitter-1.png" />
 </a>
