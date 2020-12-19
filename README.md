@@ -21,7 +21,7 @@ Hi, I am Subhrojyoti, a Software Developer ðŸš€ and an Data Science Enthusiast ð
 
 - :man_technologist: Currently working in the account receivables automation space :wink:
 - :open_hands: Open to collaborations
-- Looking to collaborate with determined individuals to work on DL Research Papers in the field of Computer Vision.
+- Looking to collaborate with determined individuals to work Research Papers/Projects 
 
 <br />
 
