@@ -9,7 +9,7 @@
   <img align="left" alt="Subhro'sHackerRank" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/HackerRank_Icon-1000px.png" />
 </a>              
 
-![](https://visitor-badge.glitch.me/badge?page_id=ssubhrojyoti.ssubhrojyoti)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ssubhrojyoti.ssubhrojyoti) -->
 
 
 
