@@ -12,7 +12,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ssubhrojyoti.ssubhrojyoti) -->
 
 
-
+<!-- 
 <br />
 
 Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast 🤖 ,currently working in the automation space of account receivables. I'm a final year b.tech student and have a keen interest in the areas of keen interest in Machine learning , Data Science, Deep Learning.
@@ -21,7 +21,7 @@ Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast �
 
 - :man_technologist: Currently working in the account receivables automation space :wink:
 - :open_hands: Open to collaborations
-- Looking to collaborate with determined individuals to work on Research Papers/Projects in the field of computer vision
+- Looking to collaborate with determined individuals to work on Research Papers/Projects in the field of computer vision  -->
 
 <br />
 
@@ -36,7 +36,7 @@ Hi, I am Subhrojyoti, a Software Developer 🚀 and an Data Science Enthusiast �
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/518px-Jupyter_logo.svg.png"></code>
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code>
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Moby-logo.png"></code>
-<code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Git_icon.svg.png"></code>
+<code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Git_icon.svg.png"></code>  
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ssubhrojyoti&show_icons=true&theme=radical&hide=contribs,prs,issues,contribsto,stars" alt="ssubhrojyoti" width = "400" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssubhrojyoti&layout=compact&theme=tokyonight&count_private=true&hide="" alt="languages" width = "300" /> -->
  
