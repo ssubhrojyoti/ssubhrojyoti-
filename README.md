@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/subhrojyoti-roy/">
   <img align="left" alt="Subhro'sLinkdeIN" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/031-linkedin.png" />
 </a>
-<a href="https://www.hackerrank.com/ssubhrojyotiroy">
+<!-- <a href="https://www.hackerrank.com/ssubhrojyotiroy">
   <img align="left" alt="Subhro'sHackerRank" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/HackerRank_Icon-1000px.png" />
-</a>              
+</a>    -->           
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ssubhrojyoti.ssubhrojyoti) -->
 
@@ -25,6 +25,7 @@ Hi, I am Subhrojyoti, a Software Developer ðŸš€ and an Data Science Enthusiast ð
 
 <br />
 
+<!-- 
 **Languages and Tools:**
 
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/600px-Python-logo-notext.svg.png"></code>
@@ -36,11 +37,11 @@ Hi, I am Subhrojyoti, a Software Developer ðŸš€ and an Data Science Enthusiast ð
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/518px-Jupyter_logo.svg.png"></code>
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code>
 <code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Moby-logo.png"></code>
-<code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Git_icon.svg.png"></code>  
+<code><img height="22" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/Git_icon.svg.png"></code>  -->
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ssubhrojyoti&show_icons=true&theme=radical&hide=contribs,prs,issues,contribsto,stars" alt="ssubhrojyoti" width = "400" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssubhrojyoti&layout=compact&theme=tokyonight&count_private=true&hide="" alt="languages" width = "300" /> -->
- 
+<!-- 
 <br />
 <br /> 
 <br /> 
-<h1 align='center'>:persevere:<i>Be Foolish, Be Curious</i>:monocle_face:</h1>
+<h1 align='center'>:persevere:<i>Be Foolish, Be Curious</i>:monocle_face:</h1>  -->
